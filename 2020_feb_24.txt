@@ -1,0 +1,11 @@
+@proginoskes // proginoskes@vivaldi.net // 2020-02-24
+------------------------------------------------------------------------------------
+I spent much of the last two days trying to configure gcc but I could not. I have been
+going in circles trying to config and build it. When I try to do so I receive an issue
+that states that I do not have an appropriate C compiler for the configuration. I do not
+understand what this means. I was also under the impression that MING62 included GCC but
+when I try the command >gcc --version, gcc is not considered a valid command or exec file.
+
+I need to install rbenv for many themes to function on my machine, which requires gcc. This
+means I have still been incapable of completing the last assignment. I have looked over a
+few themes that may be useful on the site.
